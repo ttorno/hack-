@@ -1,0 +1,70 @@
+{
+    "aimbotSettings": {
+        "aimActiveOnlyWhenShooting": false,
+        "aimAssist": true,
+        "aimBreak": 0.059999994933605194,
+        "aimTime": 0.029999999329447746,
+        "aimbotKey": 59,
+        "enabled": true,
+        "fov": 250.0,
+        "hitbox": 2,
+        "ignoreFovCheckDistance": 0.0,
+        "predictionEnabled": true,
+        "rcsEnabled": true,
+        "rcsPitchPower": 0.5,
+        "rcsYawPower": 0.5,
+        "singleTargetPerAimUse": false,
+        "smoofing": 15.0,
+        "smoofingMaxSpeed": 30.0,
+        "smoofingMinSpeed": 5.0,
+        "smoothEnabled": true,
+        "switchTargetDelay": 0.0
+    },
+    "espSettings": {
+        "bonesEspDistance": 100.0,
+        "bonesEspEnabled": true,
+        "bonesEspEnemyColor": {
+            "b": 1.0,
+            "g": 1.0,
+            "r": 1.0
+        },
+        "espDistance": 200.0,
+        "espEnabled": true,
+        "espEnemyColor": {
+            "b": 0.0,
+            "g": 0.0,
+            "r": 1.0
+        },
+        "espShowDistance": true,
+        "healthEspDistance": 200.0,
+        "healthEspEnabled": true
+    },
+    "glowSettings": {
+        "enabled": true,
+        "enemyColor": {
+            "b": 0.0,
+            "g": 0.0,
+            "r": 1.0
+        },
+        "glowDistance": 500.0,
+        "knockedColor": {
+            "b": 0.7185930013656616,
+            "g": 0.6644278168678284,
+            "r": 0.0
+        },
+        "visibleEnemyColor": {
+            "b": 0.0,
+            "g": 1.0,
+            "r": 0.0
+        }
+    },
+    "miscSettings": {
+        "superGlideEnabled": false,
+        "wallJumpEnabled": false
+    },
+    "rcsSettings": {
+        "enabled": true,
+        "rcsPitchPower": 0.5,
+        "rcsYawPower": 0.5
+    }
+}
